@@ -1,0 +1,48 @@
+[
+  {
+    "faq": [
+      {
+        "id": 1,
+        "question": "What is the this?",
+        "date": "01-02-2019",
+        "answer": "This is something that is pointed at."
+      },
+      {
+        "id": 2,
+        "question": "What is the this?",
+        "date": "01-02-2019",
+        "answer": "This is something that is pointed at."
+      },
+      {
+        "id": 3,
+        "question": "What is the this?",
+        "date": "01-02-2019",
+        "answer": "This is something that is pointed at."
+      },
+      {
+        "id": 4,
+        "question": "What is the this?",
+        "date": "01-02-2019",
+        "answer": "This is something that is pointed at."
+      },
+      {
+        "id": 5,
+        "question": "What is the this?",
+        "date": "01-02-2019",
+        "answer": "This is something that is pointed at."
+      },
+      {
+        "id": 6,
+        "question": "What is the this?",
+        "date": "01-02-2019",
+        "answer": "This is something that is pointed at."
+      },
+      {
+        "id": 7,
+        "question": "What is the this?",
+        "date": "01-02-2019",
+        "answer": "This is something that is pointed at."
+      }
+    ]
+  }
+]
