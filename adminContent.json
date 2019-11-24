@@ -2,17 +2,17 @@
   {
     "topBarIcons": [
       {
-        "name": "",
+        "name": "mail",
         "badge": 3,
         "menu": ["Menu 1", "Menu 2", "Menu 2"]
       },
       {
-        "name": "",
+        "name": "notification",
         "badge": 4,
         "menu": ["Menu 1", "Menu 2", "Menu 2"]
       },
       {
-        "name": "",
+        "name": "person",
         "badge": 0,
         "menu": ["Menu 1", "Menu 2", "Menu 2"]
       }
