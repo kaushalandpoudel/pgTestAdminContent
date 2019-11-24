@@ -1,47 +1,20 @@
 [
   {
-    "faq": [
+    "topBarIcons": [
       {
-        "id": 1,
-        "question": "What is the this?",
-        "date": "01-02-2019",
-        "answer": "This is something that is pointed at."
+        "name": "",
+        "badge": 3,
+        "menu": ["Menu 1", "Menu 2", "Menu 2"]
       },
       {
-        "id": 2,
-        "question": "What is the this?",
-        "date": "01-02-2019",
-        "answer": "This is something that is pointed at."
+        "name": "",
+        "badge": 4,
+        "menu": ["Menu 1", "Menu 2", "Menu 2"]
       },
       {
-        "id": 3,
-        "question": "What is the this?",
-        "date": "01-02-2019",
-        "answer": "This is something that is pointed at."
-      },
-      {
-        "id": 4,
-        "question": "What is the this?",
-        "date": "01-02-2019",
-        "answer": "This is something that is pointed at."
-      },
-      {
-        "id": 5,
-        "question": "What is the this?",
-        "date": "01-02-2019",
-        "answer": "This is something that is pointed at."
-      },
-      {
-        "id": 6,
-        "question": "What is the this?",
-        "date": "01-02-2019",
-        "answer": "This is something that is pointed at."
-      },
-      {
-        "id": 7,
-        "question": "What is the this?",
-        "date": "01-02-2019",
-        "answer": "This is something that is pointed at."
+        "name": "",
+        "badge": 0,
+        "menu": ["Menu 1", "Menu 2", "Menu 2"]
       }
     ]
   }
