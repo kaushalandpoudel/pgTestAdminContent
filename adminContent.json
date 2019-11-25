@@ -26,7 +26,7 @@
       {
         "icon": "InboxIcon",
         "item": "Menu 2",
-        "subMenu": ["Sub Menu 1", "Sub Menu 2", "Sub Menu 3"]
+        "subMenu": []
       },
       {
         "icon": "InboxIcon",
@@ -36,7 +36,7 @@
       {
         "icon": "InboxIcon",
         "item": "Menu 4",
-        "subMenu": ["Sub Menu 1", "Sub Menu 2", "Sub Menu 3"]
+        "subMenu": []
       },
       {
         "icon": "InboxIcon",
@@ -48,8 +48,6 @@
         "item": "Menu 6",
         "subMenu": ["Sub Menu 1", "Sub Menu 2", "Sub Menu 3"]
       }
-
-
     ]
   }
 ]
