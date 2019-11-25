@@ -25,8 +25,7 @@
       },
       {
         "icon": "InboxIcon",
-        "item": "Menu 2",
-        "subMenu": []
+        "item": "Menu 2"
       },
       {
         "icon": "InboxIcon",
@@ -35,8 +34,7 @@
       },
       {
         "icon": "InboxIcon",
-        "item": "Menu 4",
-        "subMenu": []
+        "item": "Menu 4"
       },
       {
         "icon": "InboxIcon",
