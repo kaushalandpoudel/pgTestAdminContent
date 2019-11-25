@@ -16,6 +16,40 @@
         "badge": 0,
         "menu": ["Menu 6", "Menu 7", "Menu 8"]
       }
+    ],
+    "sideBarList": [
+      {
+        "icon": "InboxIcon",
+        "item": "Menu 1",
+        "subMenu": ["Sub Menu 1", "Sub Menu 2", "Sub Menu 3"]
+      },
+      {
+        "icon": "InboxIcon",
+        "item": "Menu 2",
+        "subMenu": ["Sub Menu 1", "Sub Menu 2", "Sub Menu 3"]
+      },
+      {
+        "icon": "InboxIcon",
+        "item": "Menu 3",
+        "subMenu": ["Sub Menu 1", "Sub Menu 2", "Sub Menu 3"]
+      },
+      {
+        "icon": "InboxIcon",
+        "item": "Menu 4",
+        "subMenu": ["Sub Menu 1", "Sub Menu 2", "Sub Menu 3"]
+      },
+      {
+        "icon": "InboxIcon",
+        "item": "Menu 5",
+        "subMenu": ["Sub Menu 1", "Sub Menu 2", "Sub Menu 3"]
+      },
+      {
+        "icon": "InboxIcon",
+        "item": "Menu 6",
+        "subMenu": ["Sub Menu 1", "Sub Menu 2", "Sub Menu 3"]
+      }
+
+
     ]
   }
 ]
