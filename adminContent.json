@@ -50,15 +50,15 @@
     "routeContent": [
       {
         "route": "/Menu 1/Sub Menu 1",
-        "content": "This is for data"
+        "content": "This is menu 1 sub menu 1"
       },
       {
         "route": "/Menu 1/Sub Menu 2",
-        "content": "This is for data"
+        "content": "This is menu 1 sub menu 2"
       },
       {
         "route": "/Menu 2",
-        "content": "This is for data"
+        "content": "This is menu 2"
       }
     ]
   }
