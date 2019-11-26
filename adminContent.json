@@ -46,6 +46,20 @@
         "item": "Menu 6",
         "subMenu": ["Sub Menu 1", "Sub Menu 2", "Sub Menu 3"]
       }
+    ],
+    "routeContent": [
+      {
+        "route": "/Menu 1/Sub Menu 1",
+        "content": "This is for data"
+      },
+      {
+        "route": "/Menu 1/Sub Menu 2",
+        "content": "This is for data"
+      },
+      {
+        "route": "/Menu 2",
+        "content": "This is for data"
+      }
     ]
   }
 ]
