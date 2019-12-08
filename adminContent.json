@@ -20,12 +20,12 @@
     "sideBarList": [
       {
         "icon": "InboxIcon",
-        "item": "Menu 1",
-        "subMenu": ["Sub Menu 1", "Sub Menu 2", "Sub Menu 3"]
+        "item": "Category"
       },
       {
         "icon": "InboxIcon",
-        "item": "Menu 2"
+        "item": "Test",
+        "subMenu": ["Create Test", "Edit Test"]
       },
       {
         "icon": "InboxIcon",
