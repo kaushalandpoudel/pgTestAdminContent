@@ -49,16 +49,16 @@
     ],
     "routeContent": [
       {
-        "route": "/Menu 1/Sub Menu 1",
-        "content": "This is menu 1 sub menu 1"
+        "route": "/Category",
+        "content": "Category"
       },
       {
-        "route": "/Menu 1/Sub Menu 2",
-        "content": "This is menu 1 sub menu 2"
+        "route": "/Test/Create Test",
+        "content": "Test: Create Test"
       },
       {
-        "route": "/Menu 2",
-        "content": "This is menu 2"
+        "route": "/Test/Edit Test",
+        "content": "Test: Edit Test"
       }
     ],
     "tableData": [
