@@ -1,0 +1,38 @@
+[
+  {
+    "topBarIcons": [
+      {
+        "name": "mail",
+        "badge": 3,
+        "menu": [
+          "Menu 1",
+          "Menu 2",
+          "Menu 3"
+        ]
+      },
+      {
+        "name": "person",
+        "badge": 0,
+        "menu": [
+          "Menu 6",
+          "Menu 7",
+          "Menu 8"
+        ]
+      }
+    ],
+    "sideBarList": [
+      {
+        "icon": "Dashboard",
+        "item": "Dashboard"
+      },
+      {
+        "icon": "User Management",
+        "item": "User Management"
+      },
+      {
+        "icon": "System Errors",
+        "item": "System Errors"
+      }
+    ]
+  }
+]
