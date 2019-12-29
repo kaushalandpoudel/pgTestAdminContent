@@ -33,6 +33,62 @@
         "icon": "System Errors",
         "item": "System Errors"
       }
+    ],
+    "userList": [
+      {
+        "name": "Kaushal Poudel",
+        "email": "kaushalandpoudel@gmail.com",
+        "username": "kaushalandpoudel",
+        "phone": "9863664547",
+        "password": "kaushal11",
+        "role": "IT Admin",
+        "description": "can use credentials for IT maintenance"
+      },
+      {
+        "name": "Kaushal Poudel",
+        "email": "kaushalandpoudel@gmail.com",
+        "username": "kaushalandpoudel",
+        "phone": "9863664547",
+        "password": "kaushal11",
+        "role": "IT Admin",
+        "description": "can use credentials for IT maintenance"
+      },
+      {
+        "name": "Kaushal Poudel",
+        "email": "kaushalandpoudel@gmail.com",
+        "username": "kaushalandpoudel",
+        "phone": "9863664547",
+        "password": "kaushal11",
+        "role": "IT Admin",
+        "description": "can use credentials for IT maintenance"
+      },
+      {
+        "name": "Kaushal Poudel",
+        "email": "kaushalandpoudel@gmail.com",
+        "username": "kaushalandpoudel",
+        "phone": "9863664547",
+        "password": "kaushal11",
+        "role": "IT Admin",
+        "description": "can use credentials for IT maintenance"
+      },
+      {
+        "name": "Kaushal Poudel",
+        "email": "kaushalandpoudel@gmail.com",
+        "username": "kaushalandpoudel",
+        "phone": "9863664547",
+        "password": "kaushal11",
+        "role": "IT Admin",
+        "description": "can use credentials for IT maintenance"
+      },
+      {
+        "name": "Kaushal Poudel",
+        "email": "kaushalandpoudel@gmail.com",
+        "username": "kaushalandpoudel",
+        "phone": "9863664547",
+        "password": "kaushal11",
+        "role": "IT Admin",
+        "description": "can use credentials for IT maintenance"
+      }
     ]
   }
 ]
