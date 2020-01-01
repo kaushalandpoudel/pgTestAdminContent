@@ -1,0 +1,9 @@
+[
+  {
+    "url": [
+      {
+        "login-token-request": "https://san-authorization-server.herokuapp.com/api/auth/oauth/token"
+      }
+    ]
+  }
+]
