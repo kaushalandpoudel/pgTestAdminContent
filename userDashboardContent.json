@@ -1,0 +1,51 @@
+[
+  {
+    "topBarIcons": [
+      {
+        "name": "notification",
+        "badge": 3,
+        "menu": [
+          "Menu 1",
+          "Menu 2",
+          "Menu 3"
+        ]
+      },
+      {
+        "name": "profile",
+        "badge": 0,
+        "menu": [
+          "Menu 6",
+          "Menu 7",
+          "Menu 8"
+        ]
+      }
+    ],
+    "sideBarList": [
+      {
+        "icon": "Home",
+        "item": "Home"
+      },
+      {
+        "icon": "Test Practice",
+        "item": "Test Practice",
+        "subMenu": ["Sub Menu 1", "Sub Menu 2", "Sub Menu 3"]
+      },
+      {
+        "icon": "Performance Analytics",
+        "item": "Performance Analytics"
+      },
+      {
+        "icon": "Flash Cards",
+        "item": "Flash Cards"
+      },
+      {
+        "icon": "Contents",
+        "item": "Contents"
+      },
+      {
+        "icon": "Forums and Discussions",
+        "item": "Forums and Discussions"
+      }
+    ]
+  }
+]
