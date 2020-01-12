@@ -1,7 +1,7 @@
 [
   {
     "userId": 1,
-    "username": "something1@gmail.com",
+    "userName": "something1@gmail.com",
     "address": "Kathmandu1",
     "district": "profilePictureUrl1",
     "accountType" : "User1",
@@ -13,7 +13,7 @@
   },
   {
     "userId": 2,
-    "username": "something2@gmail.com",
+    "userName": "something2@gmail.com",
     "address": "Kathmandu2",
     "district": "profilePictureUrl2",
     "accountType" : "User2",
@@ -25,7 +25,7 @@
   },
   {
     "userId": 3,
-    "username": "something3@gmail.com",
+    "userName": "something3@gmail.com",
     "address": "Kathmandu3",
     "district": "profilePictureUrl3",
     "accountType" : "User3",
@@ -37,7 +37,7 @@
   },
   {
     "userId": 4,
-    "username": "something4@gmail.com",
+    "userName": "something4@gmail.com",
     "address": "Kathmandu4",
     "district": "profilePictureUrl4",
     "accountType" : "User4",
@@ -49,7 +49,7 @@
   },
   {
     "userId": 5,
-    "username": "something5@gmail.com",
+    "userName": "something5@gmail.com",
     "address": "Kathmandu5",
     "district": "profilePictureUrl5",
     "accountType" : "User5",
@@ -61,7 +61,7 @@
   },
   {
     "userId": 6,
-    "username": "something6@gmail.com",
+    "userName": "something6@gmail.com",
     "address": "Kathmandu6",
     "district": "profilePictureUrl6",
     "accountType" : "User6",
@@ -73,7 +73,7 @@
   },
   {
     "userId": 7,
-    "username": "something7@gmail.com",
+    "userName": "something7@gmail.com",
     "address": "Kathmandu7",
     "district": "profilePictureUrl7",
     "accountType" : "User7",
@@ -85,7 +85,7 @@
   },
   {
     "userId": 8,
-    "username": "something8@gmail.com",
+    "userName": "something8@gmail.com",
     "address": "Kathmandu8",
     "district": "profilePictureUrl8",
     "accountType" : "User8",
@@ -97,7 +97,7 @@
   },
   {
     "userId": 9,
-    "username": "something9@gmail.com",
+    "userName": "something9@gmail.com",
     "address": "Kathmandu9",
     "district": "profilePictureUrl9",
     "accountType" : "User9",
