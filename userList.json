@@ -3,7 +3,7 @@
     "userId": 1,
     "userName": "something1@gmail.com",
     "address": "Kathmandu1",
-    "profilePictureUrl": "profilePictureUrl1",
+    "profilePictureUrl": "https://res.cloudinary.com/dsi1cv9hf/image/upload/v1578983840/progressive-labs/Untitled_vg72pe.jpg",
     "district": "district1",
     "accountType" : "User1",
     "transactionId": "transactionID1",
