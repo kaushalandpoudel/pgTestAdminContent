@@ -26,25 +26,16 @@
         "item": "Home"
       },
       {
-        "icon": "Test Practice",
-        "item": "Test Practice",
-        "subMenu": ["Sub Menu 1", "Sub Menu 2", "Sub Menu 3"]
+        "icon": "User Operation",
+        "item": "User management"
       },
       {
-        "icon": "Performance Analytics",
-        "item": "Performance Analytics"
+        "icon": "Question Operation",
+        "item": "Question Operation"
       },
       {
-        "icon": "Flash Cards",
-        "item": "Flash Cards"
-      },
-      {
-        "icon": "Contents",
-        "item": "Contents"
-      },
-      {
-        "icon": "Forums and Discussions",
-        "item": "Forums and Discussions"
+        "icon": "Test Operation",
+        "item": "Test Operation"
       }
     ]
   }
