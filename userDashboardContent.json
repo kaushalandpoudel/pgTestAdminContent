@@ -36,6 +36,10 @@
       {
         "icon": "Test Operation",
         "item": "Test Operation"
+      },
+      {
+        "icon": "Category Operation",
+        "item": "Category Operation"
       }
     ]
   }
