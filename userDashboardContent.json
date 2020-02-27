@@ -23,8 +23,7 @@
     "sideBarList": [
       {
         "icon": "Home",
-        "item": "Home",
-        "subMenu": ["1", "2"]
+        "item": "Home"
       },
       {
         "icon": "User Operation",
@@ -49,20 +48,25 @@
         "item": "Home"
       },
       {
-        "icon": "User Operation",
-        "item": "User Operation"
+        "icon": "Test Practice",
+        "item": "Test Practice",
+        "subMenu": ["Year Based Past Test", "Category Based Test", "High Yield", "Scheduled Test"]
       },
       {
-        "icon": "Question Operation",
-        "item": "Question Operation"
+        "icon": "Performance Analytics",
+        "item": "Performance Analytics"
       },
       {
-        "icon": "Test Operation",
-        "item": "Test Operation"
+        "icon": "Flash Cards",
+        "item": "Flash Cards"
       },
       {
-        "icon": "Category Operation",
-        "item": "Category Operation"
+        "icon": "Contents",
+        "item": "Contents"
+      },
+      {
+        "icons": "Forum & Discussion",
+        "item":  "Forum & Discussion"
       }
     ]
   }
