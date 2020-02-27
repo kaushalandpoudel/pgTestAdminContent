@@ -23,6 +23,29 @@
     "sideBarList": [
       {
         "icon": "Home",
+        "item": "Home",
+        "subMenu": ["1", "2"]
+      },
+      {
+        "icon": "User Operation",
+        "item": "User Operation"
+      },
+      {
+        "icon": "Question Operation",
+        "item": "Question Operation"
+      },
+      {
+        "icon": "Test Operation",
+        "item": "Test Operation"
+      },
+      {
+        "icon": "Category Operation",
+        "item": "Category Operation"
+      }
+    ],
+    "sideBarListStudent": [
+      {
+        "icon": "Home",
         "item": "Home"
       },
       {
